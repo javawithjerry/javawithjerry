@@ -70,7 +70,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=javawithjerry.javawithjerry&"  />
+  <img src="https://profile-counter.glitch.me/javawithjerry/count.svg?"  />
 </div>
 
 ###
